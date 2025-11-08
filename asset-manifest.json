@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e7a8372c.css",
+    "main.js": "/portfolio/static/js/main.56f73f86.js",
+    "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/closeup-sticky-note-paper.jpg": "/portfolio/static/media/closeup-sticky-note-paper.e22f71ee4e3dd7b49ab1.jpg",
+    "static/media/education-concept-books-laptop-library.jpg": "/portfolio/static/media/education-concept-books-laptop-library.c760ece9d042ac83facf.jpg",
+    "static/media/computer-program-coding-screen.jpg": "/portfolio/static/media/computer-program-coding-screen.ffada8fa019880237304.jpg",
+    "static/media/pouch-2.png": "/portfolio/static/media/pouch-2.5c11829a3c5ff4c20533.png",
+    "static/media/propic.png": "/portfolio/static/media/propic.91fd86758b806df8027a.png",
+    "static/media/ai-technology-brain-background-digital-transformation-concept.jpg": "/portfolio/static/media/ai-technology-brain-background-digital-transformation-concept.1ebed1d254183ccbf261.jpg",
+    "static/media/pouch-cover.png": "/portfolio/static/media/pouch-cover.08a5f7f644831666695c.png",
+    "static/media/pouch-1.png": "/portfolio/static/media/pouch-1.4d521f44cc1447643123.png",
+    "static/media/autoproof-cover.jpg": "/portfolio/static/media/autoproof-cover.b285da1f178f07d153f5.jpg",
+    "static/media/vrapp-cover.jpg": "/portfolio/static/media/vrapp-cover.2f4c6c966857807d2abd.jpg",
+    "static/media/vrapp-1.png": "/portfolio/static/media/vrapp-1.a43f87ae7b301cde9620.png",
+    "static/media/copd-cover.jpg": "/portfolio/static/media/copd-cover.242a5a45777715b38710.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.f11021803f68852df283.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/portfolio/index.html",
+    "main.e7a8372c.css.map": "/portfolio/static/css/main.e7a8372c.css.map",
+    "main.56f73f86.js.map": "/portfolio/static/js/main.56f73f86.js.map",
+    "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a8372c.css",
+    "static/js/main.56f73f86.js"
+  ]
+}
