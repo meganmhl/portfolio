@@ -29,6 +29,28 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run deploy`
+
+Deploys the app to GitHub Pages. This command will:
+1. Build the app for production (`predeploy` script)
+2. Deploy the `build` folder to the `gh-pages` branch
+
+**First-time setup:**
+1. Make sure your repository is pushed to GitHub
+2. Go to your repository settings on GitHub
+3. Navigate to "Pages" in the left sidebar
+4. Under "Source", select the `gh-pages` branch and `/ (root)` folder
+5. Click "Save"
+
+**To deploy:**
+```bash
+npm run deploy
+```
+
+Your site will be available at: https://meganmhl.github.io/portfolio
+
+**Note:** After the first deployment, it may take a few minutes for the site to be accessible. Subsequent deployments are usually faster.
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
