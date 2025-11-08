@@ -805,7 +805,7 @@ body {
   }
 
   .swipe-down-container {
-    bottom: 5rem;
+    bottom: 1rem;
   }
 
   .swipe-text {
@@ -1002,7 +1002,8 @@ body {
   }
 
   .id-card-tag {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
+    padding: 0.25rem 0.45rem;
   }
 
   .about-me .description p {
