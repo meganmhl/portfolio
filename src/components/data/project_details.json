@@ -1,0 +1,54 @@
+[
+  {
+    "name": "COPD Management: a SMART on FHIR App for patient self-monitoring",
+    "properties": "Software Development",
+    "tags": ["Healthcare"],
+    "technologies": [
+      "React",
+      "FastAPI",
+      "MELD Sandbox",
+      "FHIR"
+    ],
+    "image": "../data/images/copd-cover.png",
+    "content": "pages/copd.ts",
+    "year": 2024
+  },
+  {
+    "name": "AutoProof: A Blockchain Car History Management System",
+    "properties": "Software Development",
+    "tags": ["Blockchain", "Smart Contracts", "Cybersecurity", "Research"],
+    "technologies": [
+      "Solidity",
+      "MetaMask",
+      "Node.js",
+      "Express.js",
+      "HTML/CSS"
+    ],
+    "image": "images/autoproof-cover.png",
+    "content": "pages/autoproof.ts",
+    "year": 2025
+  },
+  {
+    "name": "Pouch: A Budgeting App for International Students",
+    "properties": "Product Design",
+    "tags": ["Design Thinking", "Innovation", "Prototyping", "User Research"],
+    "technologies": ["Figma"],
+    "image": "images/pouch-cover.png",
+    "content": "pages/pouch.ts",
+    "year": 2025
+  },
+  {
+    "name": "Exploring the Security and User Privacy of Emerging Application Ecosystems",
+    "properties": "Research",
+    "tags": ["Cybersecurity", "Privacy", "Data Analytics", "Research", "VR"],
+    "technologies": [
+      "Python",
+      "Selenium",
+      "scikit-learn",
+      "KeyBERT"
+    ],
+    "image": "images/vrapp-cover.jpg",
+    "content": "pages/vrapp.ts",
+    "year": 2025
+  }
+]
