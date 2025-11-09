@@ -50,5 +50,37 @@
     "image": "images/vrapp-cover.jpg",
     "content": "pages/vrapp.ts",
     "year": 2025
+  },
+  {
+    "name": "Numeric to Words Converter",
+    "properties": "Software Development",
+    "tags": ["Algorithm Design", "Unit Testing"],
+    "technologies": [
+      "ASP.NET",
+      "C#",
+      "HTML/CSS",
+      "JavaScript",
+      "xUnit",
+      "FluentAssertions"
+    ],
+    "image": "images/toword-cover.png",
+    "content": "pages/toword.ts",
+    "year": 2025
+  },
+  {
+    "name": "Measuring and Improving Readability in Insurance and Health Documentation",
+    "properties": "Machine Learning",
+    "tags": ["Insurance", "Readability", "NLP", "Machine Learning", "Research"],
+    "technologies": [
+      "Python",
+      "pandas",
+      "NumPy",
+      "scikit-learn",
+      "matplotlib",
+      "HTML/CSS"
+    ],
+    "image": "images/readability-cover.png",
+    "content": "pages/readability.ts",
+    "year": 2022
   }
 ]

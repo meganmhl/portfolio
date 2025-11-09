@@ -7,12 +7,16 @@ import copdCover from './data/images/copd-cover.jpg';
 import autoproofCover from './data/images/autoproof-cover.jpg';
 import pouchCover from './data/images/pouch-cover.png';
 import vrappCover from './data/images/vrapp-cover.jpg';
+import towordCover from './data/images/toword-cover.png';
+import readabilityCover from './data/images/readability-cover.jpg';
 
 // Import HTML content from TypeScript files
 import copdHtml from './data/pages/copd';
 import autoproofHtml from './data/pages/autoproof';
 import pouchHtml from './data/pages/pouch';
 import vrappHtml from './data/pages/vrapp';
+import towordHtml from './data/pages/toword';
+import readabilityHtml from './data/pages/readability';
 
 interface Project {
   name: string;
@@ -30,6 +34,8 @@ const imageMap: { [key: string]: string } = {
   'images/autoproof-cover.png': autoproofCover,
   'images/pouch-cover.png': pouchCover,
   'images/vrapp-cover.jpg': vrappCover,
+  'images/toword-cover.png': towordCover,
+  'images/readability-cover.png': readabilityCover,
 };
 
 // HTML content mapping
@@ -38,6 +44,8 @@ const htmlContentMap: { [key: string]: string } = {
   'pages/autoproof.ts': autoproofHtml,
   'pages/pouch.ts': pouchHtml,
   'pages/vrapp.ts': vrappHtml,
+  'pages/toword.ts': towordHtml,
+  'pages/readability.ts': readabilityHtml,
 };
 
 const Projects = () => {
